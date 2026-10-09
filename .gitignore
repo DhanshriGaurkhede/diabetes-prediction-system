@@ -1,0 +1,10 @@
+```text
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+*.db
+*.db-wal
+*.db-shm
+```
